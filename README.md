@@ -1,6 +1,6 @@
 # VoteBot
 Telegram bot for voting for university half life t-shirt design competation
-
+<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
 
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1"
