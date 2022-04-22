@@ -1,3 +1,3 @@
 # VoteBot
 Telegram bot for voting for university half life t-shirt design competation
-<h4 style="background-color:black; color:white;">$ pip install -r requirements.txt</h4>
+&lt;h4 style="background-color:black; color:white;"&gt;$ pip install -r requirements.txt&lt;&#47;h4&gt;
