@@ -21,12 +21,12 @@ import os
 import csv
 
 
-admin = ["374985912", "796942491"]
+admin = ["admin_chatid1", "admin_chatid2"]
 
 
 A, B = range(2)
 
-BOT = Bot("5371475993:AAFOlAG_DQLxh9Z6iYEh5IxNSFjsas-okN0")
+BOT = Bot("TOKEN")
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
@@ -281,7 +281,7 @@ def myfall(u, c):
 def main() -> None:
     """Run bot."""
     # Create the Updater and pass it your bot's token.
-    updater = Updater("5371475993:AAFOlAG_DQLxh9Z6iYEh5IxNSFjsas-okN0")
+    updater = Updater("TOKEN")
     dispatcher = updater.dispatcher
 
     conv_handler = ConversationHandler(
